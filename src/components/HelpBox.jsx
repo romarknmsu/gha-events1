@@ -11,6 +11,8 @@ function HelpBox({ title, text }) {
   );
 }
 
+// comment I want to skip
+
 HelpBox.propTypes = {
   title: string,
   text: string,
